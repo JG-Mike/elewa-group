@@ -1,0 +1,21 @@
+.content{
+    font-family: var(--elewa-group-website-dmsans-regular);
+   font-size: var(--elewa-group-website-font-size-elewa-text);
+   padding: 60px;
+}
+.linkContainer{
+    padding: 10px;
+}
+.linkContainer a{
+    text-decoration: none;
+    padding: 0 30px;
+    margin: 0 10px;
+    border: 2px solid black;
+    color: black;
+    border-radius: 20px;
+}
+.linkContainer a:hover{
+    color: white;
+    background-color: black;
+}
+
